@@ -41,7 +41,7 @@ Contributing to this repository is easy. Here's how you can get started:
 ## Get Started
 Ready to start contributing? Let's make Hacktoberfest 2023 a great success together! Happy coding!
 
-![alt logo](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt logo](https://github.com/iVaR-eDoCeD/hacktober-leet-code/blob/main/cover.jpg)
 ## NOTE :
 This repository is for educational purposes, and it's important to respect LeetCode's terms and conditions when using this code.
 
