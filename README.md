@@ -33,9 +33,9 @@ Contributing to this repository is easy. Here's how you can get started:
 
 ## Contribution Guidelines :
    ~~~
-   *Ensure your code is correct and efficient.
-   *Include comments explaining your code logic.
-   *Mention the LeetCode problem number and a brief description in your code file.
+   * Ensure your code is correct and efficient.
+   * Include comments explaining your code logic.
+   * Mention the LeetCode problem number and a brief description in your code file.
    ~~~
    
 ## Get Started
