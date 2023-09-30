@@ -32,18 +32,16 @@ Contributing to this repository is easy. Here's how you can get started:
 7. Create a pull request (PR) to merge your changes into the main repository. Please provide a clear and concise title and description for your PR.
 
 ## Contribution Guidelines :
-   Markup : *Ensure your code is correct and efficient.
-            *Include comments explaining your code logic.
-            *Mention the LeetCode problem number and a brief description in your code file.
-
+   ~~~
+   *Ensure your code is correct and efficient.
+   *Include comments explaining your code logic.
+   *Mention the LeetCode problem number and a brief description in your code file.
+   ~~~
+   
 ## Get Started
 Ready to start contributing? Let's make Hacktoberfest 2023 a great success together! Happy coding!
 
 ## NOTE :
 This repository is for educational purposes, and it's important to respect LeetCode's terms and conditions when using this code.
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
