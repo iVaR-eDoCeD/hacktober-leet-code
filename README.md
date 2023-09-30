@@ -20,11 +20,16 @@ Contributing to this repository is easy. Here's how you can get started:
    **Example:** 1_TwoSums
 4. Inside the folder add your solutions in any programming language you want.
 5. **Commit** your changes to your github repository by using the following commands
+   ```bash
    git add .git
+   ```
+   ```bash
    commit -m "In this quotes write the changes you made so i can understand your contribution"
+   ```
    **Example :** commit -m "Problem 1 solution's"
-   git push 
-6. Create a pull request (PR) to merge your changes into the main repository. Please provide a clear and concise title and description for your PR.
+   ```bash
+   git push
+7. Create a pull request (PR) to merge your changes into the main repository. Please provide a clear and concise title and description for your PR.
 
 ## NOTE :
 This repository is for educational purposes, and it's important to respect LeetCode's terms and conditions when using this code.
