@@ -38,6 +38,7 @@ Contributing to this repository is easy. Here's how you can get started:
    * Ensure your code is correct and efficient.
    * Include comments explaining your code logic.
    * Mention the LeetCode problem number and a brief description in your code file.
+   * Make sure if the problem is already solved then you can try adding changes like writing it in a different language.
    ~~~
    
 ## Get Started
