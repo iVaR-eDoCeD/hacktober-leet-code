@@ -41,6 +41,7 @@ Contributing to this repository is easy. Here's how you can get started:
 ## Get Started
 Ready to start contributing? Let's make Hacktoberfest 2023 a great success together! Happy coding!
 
+!(https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg)
 ## NOTE :
 This repository is for educational purposes, and it's important to respect LeetCode's terms and conditions when using this code.
 
