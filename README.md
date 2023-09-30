@@ -32,7 +32,7 @@ Contributing to this repository is easy. Here's how you can get started:
 7. Create a pull request (PR) to merge your changes into the main repository. Please provide a clear and concise title and description for your PR.<br/>
    **How To Create A Pull Request**<br/>
     [Youtube](https://youtu.be/8lGpZkjnkt4?t=61)
-   ```
+   
 ## Contribution Guidelines :
    ~~~
    * Ensure your code is correct and efficient.
