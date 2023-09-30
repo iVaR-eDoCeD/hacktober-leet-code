@@ -32,9 +32,9 @@ Contributing to this repository is easy. Here's how you can get started:
 7. Create a pull request (PR) to merge your changes into the main repository. Please provide a clear and concise title and description for your PR.
 
 ## Contribution Guidelines :
-   *Ensure your code is correct and efficient.
-   *Include comments explaining your code logic.
-   *Mention the LeetCode problem number and a brief description in your code file.
+   Markup : *Ensure your code is correct and efficient.
+            *Include comments explaining your code logic.
+            *Mention the LeetCode problem number and a brief description in your code file.
 
 ## Get Started
 Ready to start contributing? Let's make Hacktoberfest 2023 a great success together! Happy coding!
