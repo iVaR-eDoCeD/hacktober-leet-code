@@ -21,7 +21,7 @@ Contributing to this repository is easy. Here's how you can get started:
 4. Inside the folder add your solutions in any programming language you want.
 5. **Commit** your changes to your github repository by using the following commands
    ```bash
-   git add .git
+   git add .
    ```
    ```bash
    commit -m "In this quotes write the changes you made so i can understand your contribution"
