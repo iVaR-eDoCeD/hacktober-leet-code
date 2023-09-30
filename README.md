@@ -41,3 +41,9 @@ Ready to start contributing? Let's make Hacktoberfest 2023 a great success toget
 
 ## NOTE :
 This repository is for educational purposes, and it's important to respect LeetCode's terms and conditions when using this code.
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
