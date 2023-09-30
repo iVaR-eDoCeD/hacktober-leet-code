@@ -16,5 +16,8 @@ Contributing to this repository is easy. Here's how you can get started:
 
    ```bash
    git clone https://github.com/iVaR-eDoCeD/hacktober-leet-code.git
-##NOTE
+3. **Create Folder** Create a new folder in the local forked repository, name the folder in this format [ProblemNumber_ProblemName]
+   **Example:** 1_TwoSums
+
+## NOTE :
 This repository is for educational purposes, and it's important to respect LeetCode's terms and conditions when using this code.
