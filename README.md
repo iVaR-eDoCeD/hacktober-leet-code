@@ -15,4 +15,6 @@ Contributing to this repository is easy. Here's how you can get started:
 2. **Clone** your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Hacktoberfest-LeetCode-Solutions.git
+   git clone https://github.com/iVaR-eDoCeD/hacktober-leet-code.git
+##NOTE
+This repository is for educational purposes, and it's important to respect LeetCode's terms and conditions when using this code.
