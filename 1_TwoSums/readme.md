@@ -3,13 +3,13 @@ Given an array of integers nums and an integer target, return indices of the two
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-You can return the answer in any order.
+You can return the answer in any order.<br/>
 **Constraints:**
 
-2 <= nums.length <= 104
--109 <= nums[i] <= 109
--109 <= target <= 109
-Only one valid answer exists.
+2 <= nums.length <= 104<br/>
+-109 <= nums[i] <= 109<br/>
+-109 <= target <= 109<br/>
+Only one valid answer exists.<br/>
  
 
 **Example 1:**
